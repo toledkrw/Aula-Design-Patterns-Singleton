@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://i.gifer.com/WyD2.gif" style="width:200px; height:200px "alt="Imagem"/>
+    <img src="https://media1.giphy.com/media/IcifS1qG3YFlS/200w.gif?cid=6c09b952nki7fhd4wws3c8um6fw7qmwdoudl6yrbr7lcu53g&rid=200w.gif&ct=g" style="width:200px; height:200px;"alt="Logo" />
   </a>
 
   <h3 align="center">Arquitetura e Projeto de Software - Padrões de Criação - Singleton</h3>
