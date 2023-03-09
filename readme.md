@@ -5,19 +5,19 @@
 <div align="center">
   <a href="">
     <img
-        src=""
+        src="https://i.gifer.com/WyD2.gif"
         style="width:200px; height:200px;"
         alt="Imagem"
     />
   </a>
 
-  <h3 align="center">Arquitetura e Projeto de Software - Padrões de <.> - <@></h3>
+  <h3 align="center">Arquitetura e Projeto de Software - Padrões de Criação - Singleton</h3>
 
 </div>
 
 ## 🔰 Começando
 
-Esse projeto foi criado para apresentar o padrão de projeto <@>, implementado na linguagem Java.
+Esse projeto foi criado para apresentar o padrão de projeto Singleton, implementado na linguagem Java.
 
 <br/>
 <br/>
@@ -45,9 +45,11 @@ Você precisa dessas tecnologias instaladas nessas versões:
 A aplicação conta com a seguinte funcionalidade:
 <br/>
 
-### 1 Implementação do padrão <@>
+### 1 Implementação do padrão Singleton
 
-O padrão <@> é um padrão de projeto que busca garantir 
+O padrão Singleton é um padrão de projeto que busca garantir que uma classe tenha apenas uma única instância, de forma global.
+<br/>
+A intenção desse padrão de projeto é alcançada à partir da privação do método construtor da classe, de modo que a única instância dessa classe fique contida em um atributo estático, podendo ser acessada apenas por um método estático.
 
 ## 📑 Licenças
 
@@ -57,18 +59,18 @@ Distribuído sob a MTI License. Veja `LICENSE` para mais informações.
 
 <!-- BADGE - Contributors -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/toledkrw/<>.svg?style=for-the-badge
-[contributors-url]: https://github.com/toledkrw/<>/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/toledkrw/Aula-Design-Patterns-Singleton.svg?style=for-the-badge
+[contributors-url]: https://github.com/toledkrw/Aula-Design-Patterns-Singleton/graphs/contributors
 
 <!-- BADGE - Issues -->
 
-[issues-shield]: https://img.shields.io/github/issues/toledkrw/<>.svg?style=for-the-badge
-[issues-url]: https://github.com/toledkrw/<>/issues
+[issues-shield]: https://img.shields.io/github/issues/toledkrw/Aula-Design-Patterns-Singleton.svg?style=for-the-badge
+[issues-url]: https://github.com/toledkrw/Aula-Design-Patterns-Singleton/issues
 
 <!-- BADGE - License -->
 
-[license-shield]: https://img.shields.io/github/license/toledkrw/<>.svg?style=for-the-badge
-[license-url]: https://github.com/toledkrw/<>/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/toledkrw/Aula-Design-Patterns-Singleton.svg?style=for-the-badge
+[license-url]: https://github.com/toledkrw/Aula-Design-Patterns-Singleton/blob/main/LICENSE
 
 <!--  -->
 <!-- TECHNOLOGIES -->
