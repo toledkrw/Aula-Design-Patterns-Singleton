@@ -47,6 +47,9 @@ O padrão Singleton é um padrão de projeto que busca garantir que uma classe t
 <br/>
 A intenção desse padrão de projeto é alcançada à partir da privação do método construtor da classe, de modo que a única instância dessa classe fique contida em um atributo estático, podendo ser acessada apenas por um método estático.
 
+<div align="center"><img src="assets\classDiagram.jpg"/></div>
+
+
 ## 📑 Licenças
 
 Distribuído sob a MTI License. Veja `LICENSE` para mais informações.
