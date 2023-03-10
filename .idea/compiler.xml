@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Design_Pattern_" />
+        <module name="Design_Pattern_Singleton" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Design_Pattern_Singleton" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
